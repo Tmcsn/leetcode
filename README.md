@@ -19,6 +19,7 @@
 | 2    | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | DP   | Medium     | [Java](https://github.com/Tmcsn/leetcode/blob/master/src/DPProblem/DP95.java) | [总结](https://github.com/Tmcsn/leetcode/blob/master/md/Unique%20Binary%20Search%20Trees%20II.md) |
 | 3    | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | DP   | Medium     | [Java](https://github.com/Tmcsn/leetcode/blob/master/src/DPProblem/DP91.java) | [总结](https://github.com/Tmcsn/leetcode/blob/master/md/91.%20Decode%20Ways.md) |
 | 4    | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | DP   | Medium     | [Java](https://leetcode.com/problems/minimum-path-sum/)      | [总结](https://github.com/Tmcsn/leetcode/blob/master/md/64.%20Minimum%20Path%20Sum%20%2663.%20Unique%20Paths%20II.md) |
+| 5    | [Triangle](https://leetcode.com/problems/triangle/)          | DP   | Medium     | [Java](https://github.com/Tmcsn/leetcode/blob/master/src/DPProblem/DP120.java) | [总结](https://github.com/Tmcsn/leetcode/blob/master/md/120.%20Triangle.md) |
 
 
 
