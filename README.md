@@ -20,6 +20,9 @@
 | 3    | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | DP   | Medium     | [Java](https://github.com/Tmcsn/leetcode/blob/master/src/DPProblem/DP91.java) | [总结](https://github.com/Tmcsn/leetcode/blob/master/md/91.%20Decode%20Ways.md) |
 | 4    | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | DP   | Medium     | [Java](https://leetcode.com/problems/minimum-path-sum/)      | [总结](https://github.com/Tmcsn/leetcode/blob/master/md/64.%20Minimum%20Path%20Sum%20%2663.%20Unique%20Paths%20II.md) |
 | 5    | [Triangle](https://leetcode.com/problems/triangle/)          | DP   | Medium     | [Java](https://github.com/Tmcsn/leetcode/blob/master/src/DPProblem/DP120.java) | [总结](https://github.com/Tmcsn/leetcode/blob/master/md/120.%20Triangle.md) |
+| 6    | [word break](https://leetcode.com/problems/word-break/)      | DP   | Medium     | [Java](https://github.com/Tmcsn/leetcode/blob/master/src/DPProblem/DP139.java) | [总结](https://github.com/Tmcsn/leetcode/blob/master/md/DP139%20Word%20Break.md) |
+| 7    | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | DP   | Medium     | [Java](https://github.com/Tmcsn/leetcode/blob/master/src/DPProblem/DP152.java) | [总结](https://github.com/Tmcsn/leetcode/blob/master/md/DP%20152%20Maximum%20Product%20Subarray.md) |
+| 8    | [House Robber](https://leetcode.com/problems/house-robber/)  | DP   | Easy       | [Java](https://github.com/Tmcsn/leetcode/blob/master/src/DPProblem/DP198.java) | [总结](https://github.com/Tmcsn/leetcode/blob/master/md/DP%20198%20House%20Robber.md) |
 
 
 
